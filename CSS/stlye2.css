@@ -1,0 +1,18 @@
+div {
+    width: 50px;
+    height: 50px;
+    transition: width 1s, height 1s, transform 1s;
+
+  }
+
+  div:hover {
+
+    transform: rotate(360deg);
+  }
+
+.center{
+    
+        margin: auto;
+        border: 0px;
+        padding: 0px;
+}
